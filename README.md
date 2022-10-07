@@ -4,4 +4,4 @@
 
 🧠 [first nn - my first NN](https://github.com/Murolando/dump_of_projects/blob/test/FirstNN.ipynb)
 
-:fire[value based model](https://github.com/Murolando/dump_of_projects/tree/test/value_based_model)
+:dizzy: [value based model](https://github.com/Murolando/dump_of_projects/tree/test/value_based_model)
