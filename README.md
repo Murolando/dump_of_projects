@@ -4,4 +4,6 @@
 
 🧠 [first nn - my first NN](https://github.com/Murolando/dump_of_projects/blob/test/FirstNN.ipynb)
 
-:dizzy: [value based model](https://github.com/Murolando/dump_of_projects/tree/test/value_based_model)
+:dizzy: [value based model - Reinforcement learning algorithm](https://github.com/Murolando/dump_of_projects/tree/test/value_based_model)
+
+:sunflower: [FlaskGANNN - First NN deploy on Flask](https://github.com/Murolando/dump_of_projects/tree/test/FlaskGANNN)
